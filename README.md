@@ -56,7 +56,6 @@
 #### 📊 Data Science, Machine Learning & Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=Ultralytics&logoColor=black" alt="YOLO" />
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -64,6 +63,19 @@
 ---
 
 ### 📊 GitHub Statistics
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HirushiDivya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49.5%" alt="Hirushi's GitHub Stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HirushiDivya&layout=compact&theme=tokyonight&hide_border=true" width="49.5%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushiDivya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HirushiDivya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hirushi's GitHub Stats" width="48%" />
