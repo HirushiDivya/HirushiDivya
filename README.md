@@ -62,7 +62,6 @@
 
 ---
 
-### 📊 GitHub Statistics
 
 ### 📊 GitHub Analytics
 
@@ -76,15 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushiDivya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HirushiDivya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hirushi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirushiDivya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushiDivya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
 
 ---
 
