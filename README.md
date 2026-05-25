@@ -18,14 +18,19 @@
 ---
 
 ### 🚀 About Me
-
-I am a passionate **Fourth-Year Undergraduate Student at SLIIT**, pursuing a degree in **Information Technology**. My core expertise lies in building robust full-stack web applications and exploring intelligent, data-driven systems leveraging Machine Learning and Computer Vision.
-
-- 💻 **Web Development:** Specialized in the MERN/PERN stack and Spring Boot ecosystem.
-- 🧠 **AI & Research:** Actively working on Computer Vision (YOLO), Medical/Agricultural image processing, and Explainable AI (XAI) frameworks like SHAP/LIME.
-- ⚡ **Looking for:** Software Engineering Internships and Full-Stack/ML collaborations.
-
----
+<table width="100%">
+  <tr>
+    <td>
+      I am a fourth-year <b>Information Technology undergraduate at SLIIT</b>, driven by a passion for Software Development and UI/UX Design. I specialize in building scalable web applications while ensuring they provide a seamless, robust, and intuitive user experience. 
+      <br/><br/>
+      <ul>
+        <li>💼 <b>Experience:</b> Worked as a Full Stack Development Intern at ITX Digital Services.</li>
+        <li>💻 <b>Focus Area:</b> Developing full-stack applications (MERN, C#/.NET, MySQL) and crafting high-fidelity modern UI/UX designs.</li>
+        <li>⚡ <b>Goal:</b> Delivering efficient software solutions that bridge the gap between elegant design and complex backend architecture.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack & Tools
 
