@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td>
-      I am a fourth-year <b>Information Technology undergraduate at SLIIT</b>, driven by a passion for Software Development and UI/UX Design. I specialize in building scalable web applications while ensuring they provide a seamless, robust, and intuitive user experience. 
+      I am a fourth-year <b>Information Technology undergraduate at SLIIT</b>, driven by a passion for Software Development and UI/UX Design. I passionate about building scalable web applications while ensuring they provide a seamless, robust, and intuitive user experience. 
       <br/><br/>
       <ul>
         <li>💼 <b>Experience:</b> Worked as a Full Stack Development Intern at ITX Digital Services.</li>
