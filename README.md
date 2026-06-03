@@ -74,7 +74,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushiDivya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=HirushiDivya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
