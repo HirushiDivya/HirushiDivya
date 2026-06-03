@@ -75,7 +75,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushiDivya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=HirushiDivya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HirushiDivya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
 </p>
 
 ---
